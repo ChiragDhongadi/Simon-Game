@@ -5,7 +5,7 @@ A simple Simon Game built using HTML, CSS, and JavaScript. Test your memory by r
 
 🎮 Live Demo
 
-Check out the live demo: Simon Game
+Check out the live demo: [Simon Game](https://chiragdhongadi.github.io/Simon-Game/)
 
 📌 Features
 
@@ -53,7 +53,8 @@ Open index.html in your browser.
 
 🎨 Screenshots
 
-(Add game screenshots here to showcase your project!)
+![image](https://github.com/user-attachments/assets/6f80b6c2-b861-4674-9a3a-ec1dbc4999f2)
+
 
 🤝 Contributing
 
