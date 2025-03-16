@@ -3,8 +3,8 @@
 
 A simple **Simon Game** built using **HTML, CSS, and JavaScript**. Test your memory by repeating the pattern of lights and sounds!
 
-## 🎮 Live Demo
-Check out the live demo: [Simon Game](https://chiragdhongadi.github.io/Simon-Game/)
+[![Live Demo](https://img.shields.io/badge/Simon%20Game-Live%20Demo-blue?logo=gamepad)](https://chiragdhongadi.github.io/Simon-Game/)
+
 
 ## 📌 Features
 - Interactive gameplay with increasing difficulty.
